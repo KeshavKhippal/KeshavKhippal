@@ -16,6 +16,7 @@ I design and ship production AI applications — agentic pipelines with tool use
 
 - 🏆 **Smart India Hackathon 2024 — National Winner** (1st among 1,000+ teams)
 - 📄 **IEEE ICIPTM 2026** — co-author, *Smart Waste Classification via MobileNetV2*
+- 🔬 **IOPQ (Physics Olympiad) — Top 300, National**
 - 🧠 Focus: Agentic AI, RAG, LLM deployment, computer vision
 
 ---
