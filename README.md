@@ -80,6 +80,7 @@ Classical IR pipeline built end to end: NLTK preprocessing, TF-IDF vectorization
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-keshavkhippal.github.io-FF4A00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://keshavkhippal.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-khippal)
 [![Email](https://img.shields.io/badge/Email-kkhippal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkhippal@gmail.com)
 
