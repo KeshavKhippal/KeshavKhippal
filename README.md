@@ -4,7 +4,7 @@
 
 ### AI Engineer — I build LLM products end to end: agents, RAG, and the stack around them
 
-**Ghaziabad, India** · B.Tech CSE (AI & ML), ABES Engineering (2027) · AI/ML Intern @ Veersa Technologies
+**Ghaziabad, India** · B.Tech CSE (AI & ML), ABES Engineering · Building LLM agents & RAG systems at Veersa Technologies
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## About
 
-I design and ship production AI applications — agentic pipelines with tool use and memory, RAG over private documents, and the Python → FastAPI → React/TypeScript stack that wraps them. Currently building LLM agents and RAG systems as an AI/ML intern at **Veersa Technologies**.
+I design and ship production AI applications — agentic pipelines with tool use and memory, RAG over private documents, and the Python → FastAPI → React/TypeScript stack that wraps them. Currently building LLM agents and RAG systems at **Veersa Technologies**.
 
 - 🏆 **Smart India Hackathon 2024 — National Winner** (1st among 1,000+ teams)
 - 📄 **IEEE ICIPTM 2026** — co-author, *Smart Waste Classification via MobileNetV2*
